@@ -4,9 +4,10 @@ For å lære Spring Boot
 # Oppsett
 maven -> demo -> Lifecycle -> install
 
-cd target
+`cd target`
 
-java -jar demo-0.0.1-SNAPSHOT.jar
+`java -jar demo-0.0.1-SNAPSHOT.jar`
+
 Eventuelt kan DemoApplication kjøres
 
 Innhold finnes på `localhost:8080/api/v1/person`
